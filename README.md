@@ -100,8 +100,3 @@ Through this project, I learned:
 **Nida Ansari**
 
 Python internship program
-
-## GitHub Repository
-
-Add your repository link here:
-https://github.com/your-username/Quiz-Application
